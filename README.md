@@ -17,7 +17,7 @@ Command buttons:
 * Del Rows: to delete records or basic tags
 * Delete Tags: to delete tvg tags or EXT directives
 * Move ch up/down: move selected records (you must select a range containing the channel names) up and down. The range selected move up/down one position at a time, Keep the button pressed to continue the movement.
-* Move ch left/right:move selected tags (tvg or EXT) left/right. You must select a range containg the tags row, and only one type of tags (tvg or EXT).
+* Move tag left/right:move selected tags (tvg or EXT) left/right. You must select a range containg the tags row, and only one type of tags (tvg or EXT).
 
 Disclaimer:
 I am not an expert programmer. I have tested the functioning of the macros in different situations, however there may still be bugs with operations that I have not foreseen or with m3u files with syntax different from what I considered "standard" (syntax reference: https://github.com/HamzaBhf00/m3u-tags-iptv).
