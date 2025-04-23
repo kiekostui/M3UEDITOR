@@ -2,7 +2,7 @@ This is a simple LibreOffice calc file with macros (written in Libreoffice Basic
 
 Created with Libreoffice version 24.85.2 tested on Xubuntu 24.10 and Windows11.
 
-The file's functionality should be quite intuitive. In any case, below is a list of the buttons present and their function.
+The file's functionality should be quite intuitive. In any case, below is a list of the buttons and their function.
 
 Command buttons:
 
